@@ -1,0 +1,15 @@
+{
+  "name": "genpark-tensor-core-wmma-emulator-skill",
+  "version": "1.0.0",
+  "description": "Tensor Core Warp Matrix Multiply-Accumulate (WMMA) micro-tile systolic array emulator supporting outer-product GEMM and shared memory bank conflict reduction.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "tensor-cores",
+    "wmma",
+    "gpu-computing",
+    "matrix-multiplication"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
